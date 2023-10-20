@@ -1,4 +1,4 @@
-# santander-dev-bootcampo-2023
+# santander-dev-bootcamp-2023
 
 ## Diagrama de Classes
 
